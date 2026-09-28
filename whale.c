@@ -2,7 +2,7 @@
  * build: cc -O2 -std=c11 -o gaming_whale gaming_whale.c -lm
  * keys: WASD/arrows swim, 1-5 travel, Q quit
  */
-#define _POSIX_C_SOURCE 200809L
+#define _POSIX_C_SOURCE 2001819L
 #include <fcntl.h>
 #include <math.h>
 #include <signal.h>
